@@ -1,0 +1,14 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.letter-spacing {
+  letter-spacing: 10px;
+}
+
+canvas {
+  border: 1px solid #ccc;
+  background-color: #fdfdfd;
+  display: block;
+  margin: 0 auto;
+}
